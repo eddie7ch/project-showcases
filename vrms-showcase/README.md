@@ -1,6 +1,8 @@
 # VRMS: Vehicle Rental Management System
 
-**Live demo:** https://vehicle-rental-app.azurewebsites.net
+**Demo:** the Azure App Service instance has since been decommissioned;
+no live demo is currently hosted. See screenshots/write-up below, or
+contact me for a walkthrough.
 
 A full-stack rental management application built with ASP.NET Core, covering the
 core operational loop of a small vehicle rental business: fleet inventory,
@@ -42,13 +44,13 @@ reservation, hand over the keys, bill the customer, and report on the fleet.
 ## Why no source code?
 
 This started as an academic project. The source currently isn't published to
-a repository. This showcase exists so the live, working system can still be
-evaluated (architecture, feature scope, code quality via the live UI/UX)
-without requiring access to the underlying codebase. The live demo above is
-the most direct way to see it in action; contact me for demo access if
-you'd like a walkthrough.
+a repository. This showcase exists so the system can still be evaluated
+(architecture, feature scope, code quality) without requiring access to the
+underlying codebase. Contact me for a walkthrough if you'd like to see it
+in action.
 
 ## Status
 
-Live and functional as of 2026. Built as a learning project, not
-production-hardened for real customer data or payments.
+Built as a learning project in 2026, not production-hardened for real
+customer data or payments. The Azure hosting was decommissioned after
+the course project concluded, so there's no live demo running currently.
